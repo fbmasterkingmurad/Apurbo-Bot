@@ -2,5 +2,5 @@ python-telegram-bot
 requests
 phonenumbers
 cloudscraper
-asyncio
 pyotp
+flask
